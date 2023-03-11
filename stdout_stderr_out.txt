@@ -1,0 +1,15 @@
+total 80
+drwxr-xr-x  14 shashankkatiyar  staff  448 Mar 11 21:25 .
+drwxr-xr-x   6 shashankkatiyar  staff  192 Feb 27 12:23 ..
+drwxr-xr-x  13 shashankkatiyar  staff  416 Mar 11 20:26 .git
+-rw-r--r--   1 shashankkatiyar  staff   59 Feb 27 12:23 README.md
+-rwxr-xr-x   1 shashankkatiyar  staff  193 Mar  7 21:46 conditions.sh
+-rwxr--r--   1 shashankkatiyar  staff  158 Mar  7 21:55 conditions2.sh
+-rw-r--r--   1 shashankkatiyar  staff   35 Mar 11 21:24 error.txt
+-rw-r--r--   1 shashankkatiyar  staff   13 Mar  7 21:31 file.txt
+-rwxr-xr-x   1 shashankkatiyar  staff  131 Mar 11 20:10 loop_for.sh
+-rwxr--r--   1 shashankkatiyar  staff  260 Mar 11 00:07 loop_while_until.sh
+-rw-r--r--   1 shashankkatiyar  staff    0 Mar 11 21:25 out.txt
+-rwxr--r--   1 shashankkatiyar  staff  214 Mar 11 20:25 script_input1.sh
+-rwxr-xr-x   1 shashankkatiyar  staff   74 Mar 11 21:14 script_input2.sh
+-rwxr-xr-x   1 shashankkatiyar  staff   34 Mar 11 21:25 temp.sh
