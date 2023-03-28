@@ -1,0 +1,3 @@
+hello there, i am shashank katiyar. 
+this file is a test file used to run the grep command. 
+i am new to bash scripting and i wanna learn more of it, as it is an important skill if i wanna do well in computational biology.
