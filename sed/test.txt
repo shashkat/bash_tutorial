@@ -1,0 +1,3 @@
+hello there, this is a test script, used to test the sed command of bash.
+this is the second line of the file.
+third line.
